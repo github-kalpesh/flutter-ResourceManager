@@ -4,13 +4,15 @@ Resource Manager App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is an application made with flutter
 
-A few resources to get you started if this is your first Flutter project:
+In the application main functionality is to mamage you resource by expense and income
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+In the application show income and expense on resource daily bases and show monthly report.  
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Contact :
+
+[Email](mailto:kalpeshdabhi1601@gmail.com)
+
+[UpWork](https://www.upwork.com/o/profiles/users/~010f1f874d7e0cc618/)
